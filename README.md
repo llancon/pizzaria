@@ -1,25 +1,3 @@
-# README
+# Pizzaria
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# pizzaria
+This was an idea that I was joking about with my friend one day. This is an app that is a restaurant with all management tools consolidated into one place. Cooks are really employees for now. There will be more things added soon!
