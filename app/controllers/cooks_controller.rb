@@ -2,10 +2,17 @@ class CooksController < ApplicationController
 
   def create
     @cook = Cook.new
-      if @user.save
-        render html: @user
+      if @cook.save
+        render html: @cook
       else
-        render 
+        render
   end
 
+  def update
+
+  end
+
+  def destroy
+
+  end
 end
